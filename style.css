@@ -16,8 +16,8 @@
 }
 .left-border{
     border-left: 2px solid red;
-    padding: 10px;
-    line-height: 100px;
+    height: 150px;
+    margin-top: 23px;
 }
 .half-width h1{
     font-family: 'Yeseva One';
